@@ -5,10 +5,10 @@
  🌱 I’m currently studying **AWS Machine Learning**<br>
  😄 Pronouns: **She/Her**<br>
 ##
-<div>
+<div align="center">
   <a href="https://github.com/CatVeiga">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CatVeiga&count_private=true&show_icons=true&theme=radical&border_radius=10" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatVeiga&layout=compact&theme=radical&border_radius=10"/>
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=CatVeiga&count_private=true&show_icons=true&theme=radical&border_radius=10" />
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatVeiga&layout=compact&theme=radical&border_radius=10"/>
   </a>
 </div> 
 
@@ -45,4 +45,5 @@
  
   ![Snake animation](https://github.com/CatVeiga/CatVeiga/blob/output/github-contribution-grid-snake.svg)
  
+
 
