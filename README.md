@@ -44,5 +44,4 @@
  
   ![Snake animation](https://github.com/CatVeiga/CatVeiga/blob/output/github-contribution-grid-snake.svg)
  
-
-
+##
