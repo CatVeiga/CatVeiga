@@ -45,3 +45,6 @@
   ![Snake animation](https://github.com/CatVeiga/CatVeiga/blob/output/github-contribution-grid-snake.svg)
  
 ##
+ 
+ <p align="center"> How many visits </p>
+<p align="center"><img alingn="center" src="https://profile-counter.glitch.me/CatVeiga/count.svg" /></p>
