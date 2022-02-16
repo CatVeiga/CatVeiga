@@ -9,6 +9,8 @@
   <a href="https://github.com/CatVeiga">
     <img height="160em"  src="https://github-readme-stats.vercel.app/api?username=CatVeiga&count_private=true&show_icons=true&theme=radical&border_radius=10" />
     <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatVeiga&layout=compact&theme=radical&border_radius=10"/>  
+   
+   <a href="https://app.daily.dev/Katveiga"><img src="https://api.daily.dev/devcards/efb5792a12c9496b81e880771ee8ee85.png?r=4uy" width="200" alt="Catarina Veiga's Dev Card"/></a>
 </div> 
 
 ##
